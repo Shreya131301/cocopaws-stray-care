@@ -83,6 +83,8 @@ cocopaws-stray-care
 ├── backend/    (Spring Boot REST APIs)
 └── README.md
 
+```
+
 ---
 
 ## 🚀 Setup Instructions
