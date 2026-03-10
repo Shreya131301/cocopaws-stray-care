@@ -76,10 +76,11 @@ The frontend handles the user interface, the backend manages business logic and 
 
 ## 📁 Project Structure
 
+```text
 cocopaws-stray-care
 │
-├── frontend/ # React + TypeScript application
-├── backend/ # Spring Boot REST APIs
+├── frontend/   (React + TypeScript application)
+├── backend/    (Spring Boot REST APIs)
 └── README.md
 
 ---
@@ -126,6 +127,6 @@ Open the application in your browser.
 
 This project was inspired by my dog **Coco**.
 
-Before Coco came into my life, I always loved seeing dogs and puppies on the street, but I never truly understood their daily struggles. When Coco became a part of my life, I realized how animals communicate even without words — their need for food, care, safety, and love.  
+Before Coco came into my life, I always loved seeing dogs and puppies on the street, but I never truly understood their daily struggles. When Coco became a part of my life, I realized how animals communicate even without words, their need for food, care, safety, and love.  
 
-CocoPaws Stray Care was created to make it easier for people to support stray animals through feeding, adoption, volunteering, and community coordination — helping them live happier, safer lives, just like Coco does.
+CocoPaws Stray Care was created to make it easier for people to support stray animals through feeding, adoption, volunteering, and community coordination, helping them live happier, safer lives, just like Coco does.
