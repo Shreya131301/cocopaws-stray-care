@@ -91,7 +91,7 @@ cocopaws-stray-care
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/cocopaws-stray-care.git
+  git clone https://github.com/your-username/cocopaws-stray-care.git
 
 
 ### 2. Run Backend
@@ -112,7 +112,7 @@ git clone https://github.com/your-username/cocopaws-stray-care.git
     npm start
   
 
-Open the application in your browser.
+  Open the application in your browser.
 
 ---
 
