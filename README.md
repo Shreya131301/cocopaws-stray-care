@@ -99,11 +99,15 @@ git clone https://github.com/your-username/cocopaws-stray-care.git
 ### 3. Run Frontend
 
 - Navigate to the `frontend` folder
+  
 - Install dependencies
+  
     npm install
 
 - Start development server
+  
     npm start
+  
 
 Open the application in your browser.
 
